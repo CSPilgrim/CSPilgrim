@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 ![cspilgrim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cspilgrim&theme=bear&show_icons=true&hide_border=false&layout=compact)
 
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
@@ -44,4 +45,3 @@ Here are some ideas to get you started:
 ![cspilgrim's Stats](https://github-readme-stats.vercel.app/api?username=cspilgrim&theme=bear&show_icons=true&hide_border=false&count_private=true)
 
 ![cspilgrim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cspilgrim&theme=bear&hide_border=false)
-
